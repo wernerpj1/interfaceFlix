@@ -7,8 +7,3 @@ export const LayoutHeader = styled.div`
     background-color: grey;
 `;
 
-function handleScroll() {
-    if(window.pageYOffset > 1) {
-    
-    }
-}
