@@ -8,7 +8,7 @@ export const MenuLayout = styled.div`
     flex-direction: column;
     width: 90%;
     height: 90%;
-    background-color: green;
+    
 `;
 
 export const MenuInicio = styled.a`

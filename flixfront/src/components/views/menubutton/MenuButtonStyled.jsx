@@ -6,8 +6,9 @@ export const MenuButton = styled.button`
     width: 100%;
     height: 10%;
     border: 0;
+    background-color: red;
     &:hover {
-    background-color: grey;
+    
     
     background-color: ${({ clicked }) => clicked ? 'red':'black'};
     }

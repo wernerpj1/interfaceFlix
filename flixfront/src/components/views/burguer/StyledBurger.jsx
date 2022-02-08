@@ -44,7 +44,6 @@ export const Menu = styled.div`
     position: relative;
     top: 15px;
     display: flex;
-    background-color: red;
     min-height: 70vh;
     max-width: 50vw;
     min-width: 30vw;
